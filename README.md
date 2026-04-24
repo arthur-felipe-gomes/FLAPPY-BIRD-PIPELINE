@@ -16,7 +16,7 @@ O objetivo do jogo é controlar o personagem e desviar dos obstáculos, acumulan
 
 ---
 
-##  Tecnologias Usada
+##   Usado
 
 - Python
 - Pygame
