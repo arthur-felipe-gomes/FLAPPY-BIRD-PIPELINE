@@ -16,7 +16,7 @@ O objetivo do jogo é controlar o personagem e desviar dos obstáculos, acumulan
 
 ---
 
-##   Usado
+##   Foi Usado
 
 - Python
 - Pygame
@@ -24,7 +24,7 @@ O objetivo do jogo é controlar o personagem e desviar dos obstáculos, acumulan
 
 ---
 
-##  Pipeline
+##  Pipe
 
 O projeto utiliza pipeline para automatizar processos importantes do desenvolvimento, como:
 
